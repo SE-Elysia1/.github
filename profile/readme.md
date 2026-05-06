@@ -7,7 +7,7 @@ A full-stack solution designed to streamline internet cafe operations. It featur
 
 ## 📂 Repositories
 * **[Backend API](https://github.com/SE-Elysia1/SE-elysia1):** The core server handling user authentication, session timers, and database management.
-* **Frontend Client:** *Work In Progress (WIP)* — The user interfaces for the Admin Dashboard and the Customer PC portals.
+* **[Frontend Client](https://github.com/SE-Elysia1/front-end):** The user interfaces for the Admin Dashboard and the Customer PC portals.
 
 ## 🛠️ Tech Stack
 
@@ -19,4 +19,4 @@ A full-stack solution designed to streamline internet cafe operations. It featur
 
 **Frontend Client:**
 * **Core:** React
-* *(Additional frontend libraries TBD)*
+* Tailwind CSS
